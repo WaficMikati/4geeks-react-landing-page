@@ -1,16 +1,19 @@
 export function Card(props) {
   return (
-    <div className="col-md mb-4">
-      <div className="card text-center">
-        <img src={props.src} className="card-img" />
-        <div className="card-body">
-        <div class="card-title fs-3 fw-bold m-3">
-          Chicha Libre
+    <div className="col-sm-6 col-md-5 col-lg-4 col-xl-3 mb-5">
+      <div className="h-100 card text-center" style={{ background: "#111e"}}>
+        <a href={props.url}><img src={props.albumArt} className="card-img-top" /></a>
+        <div className="card-title text-white fs-4 pt-3">
+          <span className="fw-bold">{props.albumName}</span>
+          <br />
+          <span className="">{props.artistName}</span>
+          <hr style={{ border: "1px solid #fff3"}}/>
         </div>
-          <p className="card-text fs-5">{props.desc}</p>
+        <div className="card-body fs-5 text-white mt-0 pt-0 px-4">
+          <p className="card-text">{props.description}</p>
         </div>
-        <div className="card-footer">
-          <button className="btn btn-primary fs-5" type="button">More info</button>
+        <div className="card-footer p-3">
+          <a className="w-100 btn btn-dark fs-4" href={props.url}>More info</a>
         </div>
       </div>
     </div>
