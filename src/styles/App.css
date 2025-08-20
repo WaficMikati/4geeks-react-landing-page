@@ -1,3 +1,14 @@
 #main {
   background: url("https://github.com/SikuTheNomad/sikuthenomad.github.io/blob/main/images/index_bg.jpg?raw=true") center center / cover no-repeat;
 }
+
+nav {
+  background: #111;
+}
+
+.navbar-brand {
+  font-family: 'Major Mono Display';
+  /* text-align: center; */
+  line-height: 1.2rem;
+  opacity: 80%;
+}

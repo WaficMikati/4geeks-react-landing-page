@@ -1,14 +1,14 @@
 export function Navbar() {
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark px-4" id="navbar" style={{ background: "#111" }}>
+    <nav className="navbar navbar-expand-lg navbar-dark" id="navbar">
       <div className="container-fluid">
         <a href="https://sikuthenomad.com" className="navbar-brand fs-4">
-          SikuTheNomad
+          siKu<br />tHe<br />NoMAd
         </a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>
         </button>
-        <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div className="collapse navbar-collapse text-end" id="navbarNavAltMarkup">
           <div className="navbar-nav fs-5 ms-auto">
             <a className="nav-link" href="#South America">South America</a>
             <a className="nav-link" href="#Middle East">Middle East</a>

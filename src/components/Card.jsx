@@ -1,7 +1,7 @@
 export function Card(props) {
   return (
-    <div className="col-sm-6 col-md-5 col-lg-4 col-xl-3 mb-5">
-      <div className="h-100 card text-center" style={{ background: "#111e"}}>
+    <div className="col-sm-6 col-md-6 col-lg-4 col-xl-3">
+      <div className="h-100 card text-center border-0" style={{ background: "#111e"}}>
         <a href={props.url}><img src={props.albumArt} className="card-img-top" /></a>
         <div className="card-title text-white fs-4 pt-3">
           <span className="fw-bold">{props.albumName}</span>
