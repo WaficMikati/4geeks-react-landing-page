@@ -1,7 +1,7 @@
 export function Card(props) {
   return (
     <div className="col-sm-6 col-md-6 col-lg-4 col-xl-3">
-      <div className="h-100 card text-center border-0" style={{ background: "#111e"}}>
+      <div className="h-100 card text-center border-0 tbg">
         <a href={props.url}><img src={props.albumArt} className="card-img-top" /></a>
         <div className="card-title text-white fs-4 pt-3">
           <span className="fw-bold">{props.albumName}</span>
@@ -13,7 +13,7 @@ export function Card(props) {
           <p className="card-text">{props.description}</p>
         </div>
         <div className="card-footer p-3">
-          <a className="w-100 btn btn-dark fs-4" href={props.url}>More info</a>
+          <a className="w-100 btn btn-dark fs-4" href={props.url}>{props.button}</a>
         </div>
       </div>
     </div>

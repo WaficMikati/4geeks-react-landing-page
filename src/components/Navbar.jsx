@@ -1,4 +1,5 @@
-export function Navbar() {
+export function Navbar(props) {
+  const regions = Object.entries(Object.entries(props)[0][1]).map((e) => { return e[0] })
   return (
     <nav className="navbar navbar-expand-lg navbar-dark" id="navbar">
       <div className="container-fluid">
@@ -10,13 +11,9 @@ export function Navbar() {
         </button>
         <div className="collapse navbar-collapse text-end" id="navbarNavAltMarkup">
           <div className="navbar-nav fs-5 ms-auto">
-            <a className="nav-link" href="#South America">South America</a>
-            <a className="nav-link" href="#Middle East">Middle East</a>
-            <a className="nav-link" href="#Africa">Africa</a>
-            <a className="nav-link" href="#Far East">Far East</a>
-            <a className="nav-link" href="#Europe">Europe</a>
-            <a className="nav-link" href="#Oceania">Oceania</a>
-            <a className="nav-link" href="#North America">North America</a>
+            {regions.map((region, i) => (
+              <a key={i} className="nav-link" href={`#${region}`}>{region}</a>
+            ))}
           </div>
         </div>
       </div>

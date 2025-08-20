@@ -1,9 +1,21 @@
-#main {
-  background: url("https://github.com/SikuTheNomad/sikuthenomad.github.io/blob/main/images/index_bg.jpg?raw=true") center center / cover no-repeat;
-}
-
 nav {
   background: #111;
+}
+
+#main {
+  background: url("../assets/bg.jpg") center center / cover no-repeat;
+}
+
+#jumbotron a {
+  background: #111e;
+}
+
+#jumbotron a:hover {
+  background: #333e;
+}
+
+#jumbotron a:active {
+  background: #444e;
 }
 
 .navbar-brand {
@@ -11,4 +23,8 @@ nav {
   /* text-align: center; */
   line-height: 1.2rem;
   opacity: 80%;
+}
+
+.tbg {
+  background: #111d;
 }
