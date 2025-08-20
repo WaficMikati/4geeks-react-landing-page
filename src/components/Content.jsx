@@ -1,5 +1,5 @@
-import { Jumbotron } from './Jumbotron'
-import { Card } from './Card'
+import { Jumbotron } from "./Jumbotron.jsx"
+import { Card } from "./Card.jsx"
 import albums from "../data/albums.json"
 
 export function Content() {
