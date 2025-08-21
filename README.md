@@ -1,8 +1,6 @@
 # React Landing Page
-Definitivamente fui un poco por la borda en este caso, ya que el objetivo era hacer una página de aterrizaje básica, e hice un completo one-pager con 2 idiomas y un tipo de traducción instantánea para tener todo el contenido del sitio web almacenado en los JSONs.
+I definitely went a little overboard in this case, as the goal was to make a basic landing page, and I ended up creating a complete one-pager with two languages and a type of instant translation to have all the website content stored in JSONs.
 
-Fue muy divertido trabajar en esto en React y disfruté refinando mi diseño hasta que fue completamente modular y escalable.
+It was a lot of fun working on this in React, and I enjoyed refining my design until it was completely modular and scalable.
 
-Espero que encuentres algo de música en mi selección que te enamore como a mí.
-
-Traducción realizada con la versión gratuita del traductor DeepL.com
+I hope you find some music in my selection that you fall in love with as much as I did.
