@@ -2,13 +2,12 @@ import { Jumbotron } from "./Jumbotron.jsx"
 import { Card } from "./Card.jsx"
 
 export function Content(props) {
-  console.log("Content: ", props.content.jumbotron)
   return (
     <div className="container-fluid overflow-auto px-lg-5" id="main">
       <Jumbotron content={props.content.jumbotron}/>
       {Object.entries(props.albums).map(([region, albumList]) => (
         <div key={"region"+ region} className='text-white mb-5' id={region}>
-          <div className='py-1 rounded-5 tbg'>
+          <div className='pt-1 rounded-5 tbg'>
             <h1 className='text-end display-3 fw-bold m-5'>{region}</h1>
             <div className="row justify-content-center g-4">
               {Object.entries(albumList).map(([id, album]) => (

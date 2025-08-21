@@ -1,5 +1,5 @@
 {
-  "South America": {
+  "América del Sur": {
     "0": {
       "albumName": "The Roots of Chicha",
       "artistName": "Various Artists",
@@ -44,7 +44,7 @@
     },
     "6": {
       "albumName": "Cenotes",
-      "artistName": "El BÃºho",
+      "artistName": "El Búho",
       "url": "https://elbuho.bandcamp.com/album/cenotes-deluxe-edition",
       "albumArt": "https://f4.bcbits.com/img/a2478280348_16.jpg",
       "description": "Cenotes casa su influencia del Dub, IDM y vibraciones electrónicas con los ritmos, tradiciones y melodías del folclore latinoamericano y andino y el sonido orgánico de cascadas, cantos de pájaros y hojas crujientes, resultando en un viaje melódico, profundo y onírico que hipnotiza tanto a través de auriculares como en la pista de baile."
@@ -57,7 +57,7 @@
       "description": "Grabado en el estudio casero de Novalima en Lima, su álbum \"Karimba\" (hierro caliente usado para marcar el ganado, así como los esclavos) lleva la música de novalima a nuevos niveles, introduciendo tanto nuevos sonidos como ritmos tradicionales como el Panalivio, Zamacueca, Ingá y Tondero, mientras mantiene su distintivo sonido afro y dub."
     }
   },
-  "Middle East": {
+  "Medio Oriente": {
     "0": {
       "albumName": "From Beirut To Gaza",
       "artistName": "Metro Beirut Records",
@@ -115,7 +115,7 @@
       "description": ""
     }
   },
-  "Africa": {
+  "África": {
     "0": {
       "albumName": "Ambuya!",
       "artistName": "Stella Chiweshe",
@@ -173,7 +173,7 @@
       "description": ""
     }
   },
-  "Far East": {
+  "Lejano Oriente": {
     "0": {
       "albumName": "",
       "artistName": "",
@@ -182,65 +182,7 @@
       "description": ""
     }
   },
-  "Europe": {
-    "0": {
-      "albumName": "",
-      "artistName": "",
-      "url": "",
-      "albumArt": "",
-      "description": ""
-    },
-    "1": {
-      "albumName": "",
-      "artistName": "",
-      "url": "",
-      "albumArt": "",
-      "description": ""
-    },
-    "2": {
-      "albumName": "",
-      "artistName": "",
-      "url": "",
-      "albumArt": "",
-      "description": ""
-    },
-    "3": {
-      "albumName": "",
-      "artistName": "",
-      "url": "",
-      "albumArt": "",
-      "description": ""
-    },
-    "4": {
-      "albumName": "",
-      "artistName": "",
-      "url": "",
-      "albumArt": "",
-      "description": ""
-    },
-    "5": {
-      "albumName": "",
-      "artistName": "",
-      "url": "",
-      "albumArt": "",
-      "description": ""
-    },
-    "6": {
-      "albumName": "",
-      "artistName": "",
-      "url": "",
-      "albumArt": "",
-      "description": ""
-    },
-    "7": {
-      "albumName": "",
-      "artistName": "",
-      "url": "",
-      "albumArt": "",
-      "description": ""
-    }
-  },
-  "Oceania": {
+  "Europa": {
     "0": {
       "albumName": "",
       "artistName": "",
@@ -298,7 +240,65 @@
       "description": ""
     }
   },
-  "North America": {
+  "Oceanía": {
+    "0": {
+      "albumName": "",
+      "artistName": "",
+      "url": "",
+      "albumArt": "",
+      "description": ""
+    },
+    "1": {
+      "albumName": "",
+      "artistName": "",
+      "url": "",
+      "albumArt": "",
+      "description": ""
+    },
+    "2": {
+      "albumName": "",
+      "artistName": "",
+      "url": "",
+      "albumArt": "",
+      "description": ""
+    },
+    "3": {
+      "albumName": "",
+      "artistName": "",
+      "url": "",
+      "albumArt": "",
+      "description": ""
+    },
+    "4": {
+      "albumName": "",
+      "artistName": "",
+      "url": "",
+      "albumArt": "",
+      "description": ""
+    },
+    "5": {
+      "albumName": "",
+      "artistName": "",
+      "url": "",
+      "albumArt": "",
+      "description": ""
+    },
+    "6": {
+      "albumName": "",
+      "artistName": "",
+      "url": "",
+      "albumArt": "",
+      "description": ""
+    },
+    "7": {
+      "albumName": "",
+      "artistName": "",
+      "url": "",
+      "albumArt": "",
+      "description": ""
+    }
+  },
+  "América del Norte": {
     "0": {
       "albumName": "",
       "artistName": "",
