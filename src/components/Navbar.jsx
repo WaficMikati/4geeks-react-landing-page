@@ -10,7 +10,7 @@ export function Navbar(props) {
   return (
     <nav className="navbar navbar-expand-xl navbar-dark" id="navbar">
       <div className="container-fluid">
-        <a href="https://sikuthenomad.com" className="navbar-brand my-1 fs-3">
+        <a href="https://sikuthenomad.com" className="navbar-brand my-1 fs-4">
           siKu<br />tHe<br />NoMAd
         </a>
 
