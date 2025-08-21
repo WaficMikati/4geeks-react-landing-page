@@ -19,14 +19,14 @@ export function Navbar(props) {
         </button>
 
         <div className="collapse navbar-collapse text-end" id="navbarNavAltMarkup">
-          <div className="navbar-nav fs-4 mx-auto">
+          <div className="navbar-nav fs-4 mx-auto gap-xl-2 gap-xxl-4">
             {regions.map((region, i) => (
-              <a key={i} className="nav-link" href={`#${region}`}>{region}</a>
+              <a key={i} className="nav-link text-nowrap" href={`#${region}`}>{region}</a>
             ))}
           </div>
 
           <div className="dropdown my-md-3 my-lg-0">
-            <button className="btn btn-dark text-white opacity-50 fs-5" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+            <button id="language" className="btn btn-dark text-white opacity-50 fs-5" type="button" data-bs-toggle="dropdown" aria-expanded="false">
               🌏︎
               <span className="ms-1">{props.lang.toUpperCase()}</span>
             </button>

@@ -1,9 +1,23 @@
 nav {
   background: #111;
+  font-family: 'Raleway';
+  
+}
+
+.nav-link {
+  font-variant: small-caps;
 }
 
 #main {
   background: url("../assets/bg.jpg") center center / cover no-repeat;
+}
+
+#jumbotron {
+  font-family: 'Quicksand';
+}
+
+#jumbotron h1 {
+  font-weight: 400 !important;
 }
 
 #jumbotron a {
@@ -20,9 +34,9 @@ nav {
 
 .navbar-brand {
   font-family: 'Major Mono Display';
-  /* text-align: center; */
   line-height: 1.2rem;
-  opacity: 80%;
+  opacity: 70%;
+  font-weight: 800;
 }
 
 .tbg {
@@ -31,4 +45,20 @@ nav {
 
 .dropdown-menu-dark {
   background: #111;
+}
+
+.region-title {
+  font-family: 'Quicksand';
+  font-weight: 400 !important;
+  font-variant: small-caps;
+  opacity: 70%;
+}
+
+.card {
+  font-family: 'Quicksand';
+}
+
+#language {
+  font-family: 'Sulphur Point';
+  font-weight: 600;
 }
