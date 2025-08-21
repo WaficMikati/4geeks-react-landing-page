@@ -5,7 +5,6 @@ import albums from './data/en/albums.json'
 import siteContent from './data/en/siteContent.json'
 
 function App() {
-  console.log("App: ", siteContent)
   return (
     <div className="d-grid vh-100">
       <Navbar ref={albums} />
@@ -13,5 +12,4 @@ function App() {
     </div>
   );
 }
-
 export default App
