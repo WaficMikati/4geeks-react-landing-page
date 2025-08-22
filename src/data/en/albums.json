@@ -173,14 +173,64 @@
       "description": "Nakibembe Xylophone Group are one of the last remaining groups that perform with the embaire. Listening to the album is like hearing the past, present and future aligned; dance music is not bound to its contemporary apparatus, and conversation rather than colonization can stretch beyond borders."
     }
   },
-  "Far East": {
+  "Asia": {
     "0": {
+      "albumName": "Tabla & Beyond",
+      "artistName": "Ustad Zakir Hussain",
+      "url": "https://open.spotify.com/album/0ejADj4ASGiKt2Tn9mlZHM",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273f59236faac07ebe058575e62",
+      "description": "The tradition of Indian percussion was revolutionized in the late 20th century by the prolific, award-winning, tabla maestro Zakir Hussain. The son of Ustad Allah Rakha, Hussain inherited his father's thirst for bringing the music of India to the international stage. His hundreds of recording credits."
+    },
+    "1": {
+      "albumName": "Laya Project",
+      "artistName": "Laya Project",
+      "url": "https://earthsync.bandcamp.com/album/laya-project",
+      "albumArt": "https://f4.bcbits.com/img/a2683317954_16.jpg",
+      "description": "The production is based on regional folk music traditions, recorded and brought back to the studio to create a composition that mixes and arranges the original recordings, and embarks on a visual and musical journey crossing borders, while preserving the music of the people."
+    },
+    "2": {
+      "albumName": "Kartick & Gotam",
+      "artistName": "Business Class Refugees",
+      "url": "https://earthsync.bandcamp.com/album/kartick-gotam",
+      "albumArt": "https://f4.bcbits.com/img/a1605547412_16.jpg",
+      "description": "Business Class Refugees is a global, collaborative project by music producer Kartick (Patrick Sebag) and sound designer Gotam (Yotam Agam), who mix local music from around the world with electronica. This album is where Kartick & Gotam's journey began: India. The project has no end."
+    },
+    "3": {
+      "albumName": "",
+      "artistName": "",
+      "url": "",
+      "albumArt": "",
+      "description": ""
+    },
+    "4": {
+      "albumName": "",
+      "artistName": "",
+      "url": "",
+      "albumArt": "",
+      "description": ""
+    },
+    "5": {
+      "albumName": "",
+      "artistName": "",
+      "url": "",
+      "albumArt": "",
+      "description": ""
+    },
+    "6": {
+      "albumName": "",
+      "artistName": "",
+      "url": "",
+      "albumArt": "",
+      "description": ""
+    },
+    "7": {
       "albumName": "",
       "artistName": "",
       "url": "",
       "albumArt": "",
       "description": ""
     }
+
   },
   "Europe": {
     "0": {
@@ -240,6 +290,65 @@
       "description": ""
     }
   },
+  "United Kindom": {
+    "0": {
+      "albumName": "",
+      "artistName": "",
+      "url": "",
+      "albumArt": "",
+      "description": ""
+    },
+    "1": {
+      "albumName": "",
+      "artistName": "",
+      "url": "",
+      "albumArt": "",
+      "description": ""
+    },
+    "2": {
+      "albumName": "",
+      "artistName": "",
+      "url": "",
+      "albumArt": "",
+      "description": ""
+    },
+    "3": {
+      "albumName": "",
+      "artistName": "",
+      "url": "",
+      "albumArt": "",
+      "description": ""
+    },
+    "4": {
+      "albumName": "",
+      "artistName": "",
+      "url": "",
+      "albumArt": "",
+      "description": ""
+    },
+    "5": {
+      "albumName": "",
+      "artistName": "",
+      "url": "",
+      "albumArt": "",
+      "description": ""
+    },
+    "6": {
+      "albumName": "",
+      "artistName": "",
+      "url": "",
+      "albumArt": "",
+      "description": ""
+    },
+    "7": {
+      "albumName": "",
+      "artistName": "",
+      "url": "",
+      "albumArt": "",
+      "description": ""
+    }
+  },
+
   "Oceania": {
     "0": {
       "albumName": "",
